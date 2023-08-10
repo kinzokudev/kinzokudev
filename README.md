@@ -1,5 +1,4 @@
 # heyo!
-i'm kinzoku and i'm an **amateur web dev** with dreams of contributing to ~~the end of society as we know it~~
-uh i mean technological advances in programming and computing and stuff like that.
+i'm kinzoku and i'm an **amateur web dev** with dreams of becoming a professional
 
 my discord username is kinzoku48. feel free to say hi!
