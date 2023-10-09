@@ -1,4 +1,4 @@
-# heyo!
-i'm kinzoku and i'm an **amateur web dev** with dreams of becoming a professional
+# hello there!
+i'm Ayman, also known as kinzoku on the interwebs, and I'm an amateur programmer and web developer!
 
 my discord username is kinzoku48. feel free to say hi!
