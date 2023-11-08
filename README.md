@@ -9,4 +9,4 @@
 
 I am an amateur programmer aspiring to one day be a professional. I am interested in Nix and DevOps as well as full stack web development. I am a strong proponent of open source software.
 
-Feel free to ping me here or on Discord, my username is kinzokudev
+[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@kinzoku48:matrix.org)
