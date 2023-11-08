@@ -9,5 +9,4 @@
 
 I am an amateur programmer aspiring to one day be a professional. I am interested in Nix and DevOps as well as full stack web development. I am a strong proponent of open source software.
 
-Feel free to ping me here or on Discord
-My Discord username is kinzokudev
+Feel free to ping me here or on Discord, my username is kinzokudev
