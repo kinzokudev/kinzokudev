@@ -1,14 +1,42 @@
-# Hello! I'm Ayman
-You can call me by my real name or my username kinzoku or kin.
+<h1 align="center">Hey, I'm Ayman!</h1>
 
-I am an amateur programmer aspiring to one day be a professional. I am interested in Nix and DevOps as well as full stack web development. I am a strong proponent of open source software.
+<div align="center">
+    <a style="text-decoration: none;" href="https://discord.com/users/338771064353980436">
+        <img src="https://img.shields.io/static/v1?label=Discord&message=kinzokudev&logo=discord&style=for-the-badge&color=b4befe&labelColor=1e1e2e&logoColor=ffffff">
+    </a>
+    <a style="text-decoration: none;" href="https://matrix.to/#/@kinzoku48:matrix.org">
+        <img src="https://img.shields.io/static/v1?label=Matrix&message=@kinzoku48&logo=matrix&style=for-the-badge&color=45475a&labelColor=1e1e2e&logoColor=ffffff">
+    </a>
+</div>
 
-[![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://builtwithnix.org/)
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim/neovim)
+<div align="center">
+    <h3 style="border-bottom: none;">If you send me an important/private email, please encrypt it!</h3>
+    <a href="https://github.com/kinzoku-dev.gpg">
+        <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD">
+    </a>
+</div>
 
-[![Languages I work with](https://github-readme-stats.vercel.app/api/top-langs/?username=kinzoku-dev&theme=cobalt)](https://github.com/kinzoku-dev)
-[![Kinzoku's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kinzoku-dev&theme=cobalt)](https://github.com/kinzoku-dev)
+<div align="center">
+    <h2 style="border-bottom: none;">My stats</h2>
+<a href="https://github.com/kinzoku-dev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzoku-dev&theme=dark">
+</a>
+<a href="https://github.com/kinzoku-dev">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kinzoku-dev&theme=dark">
+</a>
+</div>
 
-[![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@kinzoku48:matrix.org)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/338771064353980436)
+<div align="center">
+    <h2 style="border-bottom: none;">My current skills</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,bash,lua&theme=dark&perline=6" />
+    </a>
+    <h2 style="border-bottom: none;">Tools I use</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=discord,neovim,github,git,linux&theme=dark&perline=6" />
+    </a>
+    <h2 style="border-bottom: none;">What I'm learning</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,rust,go&theme=dark&perline=6" />
+    </
+</div>
