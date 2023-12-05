@@ -36,4 +36,8 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=sass,rust,go&theme=dark&perline=6" />
     </a>
+    <h2 style="border-bottom: none;">What I want to learn/am looking into</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tauri,c,cpp,arduino&theme=dark&perline=6" />
+    </a>
 </div>
