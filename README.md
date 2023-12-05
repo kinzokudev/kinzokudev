@@ -10,10 +10,7 @@
 </div>
 
 <div align="center">
-    <h3 style="border-bottom: none;">If you send me an important/private email, please encrypt it!</h3>
-    <a href="https://github.com/kinzoku-dev.gpg">
-        <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD">
-    </a>
+<h2 style="border-bottom: none;">About me WIP</h2>
 </div>
 
 <div align="center">
