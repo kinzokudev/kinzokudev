@@ -33,5 +33,7 @@
         <img src="https://skillicons.dev/icons?i=discord,neovim,github,git,linux,cloudflare,nginx,docker,bun,nodejs,nix,godot,tailwind,pnpm,htmx,nextjs,postgres,vercel&theme=dark&perline=6" />
     </a>
     <h2 style="border-bottom: none;">What I'm learning</h2>
-    <p>Nothing in particular at the moment...</p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=go&theme=dark&perline=6" />
+    </a>
 </div>
