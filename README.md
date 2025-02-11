@@ -15,11 +15,11 @@
 
 <div align="center">
     <h2 style="border-bottom: none;">My stats</h2>
-<a href="https://github.com/kinzoku-dev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzoku-dev&theme=dark">
+<a href="https://github.com/kinzokudev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinzokudev&theme=dark">
 </a>
-<a href="https://github.com/kinzoku-dev">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kinzoku-dev&theme=dark">
+<a href="https://github.com/kinzokudev">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kinzokudev&theme=dark">
 </a>
 </div>
 
@@ -34,6 +34,6 @@
     </a>
     <h2 style="border-bottom: none;">What I'm learning</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=go,python&theme=dark&perline=6" />
     </a>
 </div>
