@@ -10,7 +10,8 @@
 </div>
 
 <div align="center">
-<h2 style="border-bottom: none;">About me WIP</h2>
+<h2 style="border-bottom: none;">About me</h2>
+<p>Check out <a href="https://kinzoku.dev/about">my about page</a> on my website!</p>
 </div>
 
 <div align="center">
