@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kira!</h1>
+<h1 align="center">Hey, I'm Kin!</h1>
 
 <div align="center">
     <a style="text-decoration: none;" href="https://discord.com/users/338771064353980436">
@@ -11,7 +11,7 @@
 
 <div align="center">
 <h2 style="border-bottom: none;">About me</h2>
-<p>Check out <a href="https://kinzoku.dev/about">my about page</a> on my website!</p>
+<p>Check out <a href="https://kinzoku.dev/about">my about page</a> on my website! (Website currently down for rewrite)</p>
 </div>
 
 <div align="center">
