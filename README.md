@@ -4,9 +4,6 @@
     <a style="text-decoration: none;" href="https://discord.com/users/338771064353980436">
         <img src="https://img.shields.io/static/v1?label=Discord&message=kinzokudev&logo=discord&style=for-the-badge&color=b4befe&labelColor=1e1e2e&logoColor=ffffff">
     </a>
-    <a style="text-decoration: none;" href="https://matrix.to/#/@kinzoku48:matrix.org">
-        <img src="https://img.shields.io/static/v1?label=Matrix&message=@kinzoku48&logo=matrix&style=for-the-badge&color=45475a&labelColor=1e1e2e&logoColor=ffffff">
-    </a>
 </div>
 
 <div align="center">
