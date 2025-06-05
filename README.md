@@ -32,6 +32,6 @@
     </a>
     <h2 style="border-bottom: none;">What I'm learning</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,python&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=go,c&theme=dark&perline=6" />
     </a>
 </div>
