@@ -24,7 +24,7 @@
 <div align="center">
     <h2 style="border-bottom: none;">My current skills</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,bash,rust,react&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,bash,react&theme=dark&perline=6" />
     </a>
     <h2 style="border-bottom: none;">Tools I use</h2>
     <a href="https://skillicons.dev">
@@ -32,6 +32,6 @@
     </a>
     <h2 style="border-bottom: none;">What I'm learning</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=go,c&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=rust,c&theme=dark&perline=6" />
     </a>
 </div>
